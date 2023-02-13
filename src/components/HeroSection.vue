@@ -1,6 +1,6 @@
 <template>
   <v-parallax
-  src="../assets/Hotpot (4).png" covered
+  src="../assets/hero.png" covered
   >
 
 <div class="overlay">

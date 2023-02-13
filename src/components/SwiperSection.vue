@@ -42,7 +42,7 @@
       ><swiper-slide
         ><a href="https://engrahafdouia.github.io/krypton/
 "    target="_blank"><img
-          src="../assets/لقطة الشاشة 2023-01-13 214031.png" height="300" width="600" /></a></swiper-slide
+          src="../assets/img4.png" height="300" width="600" /></a></swiper-slide
       ><swiper-slide
         ><a href=""    target="_blank"><img
           src="../assets/ezgif.com-gif-maker.gif" height="300" width="600" /></a></swiper-slide
@@ -67,14 +67,14 @@
         <a href="https://engrahafdouia.github.io/Earth-Move/
 "   target="_blank">
           <img
-            src="../assets/ezgif.com-gif-maker (2).gif" height="300" width="600"/>
+            src="../assets/ezgif.com-gif-makers.gif" height="300" width="600"/>
         </a>
           </swiper-slide
       >
       <swiper-slide
         ><a href="">
           <img
-            src="../assets/لقطة الشاشة 2023-02-07 171634.png" height="300" width="600"/>
+            src="../assets/img55.png" height="300" width="600"/>
         </a>
         </swiper-slide
       >
@@ -82,7 +82,7 @@
         >
         <a >
           <img
-            src="../assets/ezgif.com-gif-maker (1).gif" height="300" width="600"/>
+            src="../assets/ezgif.com-gif-makerss.gif" height="300" width="600"/>
         </a>
           </swiper-slide
       >

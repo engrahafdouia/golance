@@ -48,7 +48,7 @@
               <v-img
                 :aspect-ratio="16 / 9"
                 cover
-                src="../assets/تنزيل (7).jpg"
+                src="../assets/imgmost.jpg"
               >
                 <v-expand-transition>
                   <div
@@ -147,7 +147,7 @@
               <v-img
                 :aspect-ratio="16 / 9"
                 cover
-                src="../assets/images (6).jpg"
+                src="../assets/most.jpg"
               >
                 <v-expand-transition>
                   <div
